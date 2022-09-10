@@ -10,7 +10,6 @@ void bfs(int node ,vector<int>graph[],vector<int>&visited,vector<int>&trav)
         int front = q.front();
         q.pop();
         trav.push_back(front);
-        visited[front] = 1;
         for(int i=0;i<graph[front].size();i++)
         {
             if(!visited[graph[front][i]])

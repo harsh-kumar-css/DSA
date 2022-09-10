@@ -1,0 +1,26 @@
+
+what is OOPS ?
+
+    Object oriented programming is a programming paradigm which is based on the concepts classes and objects.
+    In object oriented programming ,we define every enity as a class, having some properties and behaviour.
+
+Advantage of OOPS : 
+    - It gives better code management and reuseability of code
+
+class - it is a user defined , not primitive data type
+        it is a description of an object
+
+object - it is a instance of a class
+
+
+Encapsulation - binding the similiar data into a single unit is called Encapsulation , the act of making classes in OOPs is used to achieve
+                Encapsulation
+
+Inheritance - when a class inherits the properties of another class it is known as inheritance , like
+              a sports car inherits the properties of a class, so parent class is car ,and child class is sports car
+
+              - single inheritance
+              - multilevel inheritance
+              - multiple inheritance
+              - heirarichal inheritance
+              - hybrid inheritance
